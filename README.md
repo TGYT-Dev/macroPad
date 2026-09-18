@@ -1,8 +1,8 @@
 # Images
 
-[MacroPad PCB](https://imgur.com/a/xuYXA5P) 
-[MacroPad Schem](https://imgur.com/a/1TtJzkA)
-[MacroPad Case / Assembly](https://imgur.com/a/YXLBJ4H)
+![MacroPad PCB](https://imgur.com/a/xuYXA5P) 
+![MacroPad Schem](https://imgur.com/a/1TtJzkA)
+![MacroPad Case / Assembly](https://imgur.com/a/YXLBJ4H)
 
 # Bill of Materials
 This should all be iuncluded in the macropad kit.
