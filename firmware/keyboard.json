@@ -1,0 +1,112 @@
+{
+    "manufacturer": "zeke",
+    "keyboard_name": "macropad",
+    "maintainer": "zeke",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "encoder": true,
+        "extrakey": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "direct": [
+            [
+                "GP26",
+                "GP27",
+                "GP28",
+                "GP29",
+                "GP3",
+                "GP4"
+            ]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP1",
+                "pin_b": "GP2"
+            }
+        ]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [
+                        0,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 0,
+                    "label": "SW1"
+                },
+                {
+                    "matrix": [
+                        0,
+                        1
+                    ],
+                    "x": 1,
+                    "y": 0,
+                    "label": "SW2"
+                },
+                {
+                    "matrix": [
+                        0,
+                        2
+                    ],
+                    "x": 2,
+                    "y": 0,
+                    "label": "SW3"
+                },
+                {
+                    "matrix": [
+                        0,
+                        3
+                    ],
+                    "x": 3,
+                    "y": 0,
+                    "label": "SW4"
+                },
+                {
+                    "matrix": [
+                        0,
+                        4
+                    ],
+                    "x": 4,
+                    "y": 0,
+                    "label": "SW5"
+                },
+                {
+                    "matrix": [
+                        0,
+                        5
+                    ],
+                    "x": 5,
+                    "y": 0,
+                    "label": "SW6_encoder_push"
+                }
+            ]
+        }
+    },
+    "vial": {
+        "keyboard_uid": "0x4CFCC41A97785866",
+        "unlock_combo": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                5
+            ]
+        ]
+    }
+}
