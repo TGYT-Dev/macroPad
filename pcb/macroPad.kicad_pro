@@ -537,7 +537,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "/home/dev/Downloads/",
+      "plot": "Gerbers/",
       "specctra_dsn": "",
       "step": "macroPad.step",
       "vrml": ""
@@ -677,18 +677,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "untitled.kicad_sch",
-        "name": "",
+        "filename": "macroPad.kicad_sch",
+        "name": "macroPad",
         "uuid": "e5624a2c-1c74-47f1-8dd8-16d0da3aa234"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H1-4",
     "variants": []
   },
   "sheets": [
     [
       "e5624a2c-1c74-47f1-8dd8-16d0da3aa234",
-      ""
+      "macroPad"
     ]
   ],
   "text_variables": {},
