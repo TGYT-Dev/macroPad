@@ -1,6 +1,6 @@
 # Images
 
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/0H6eekn.png" width="300" alt="MacroPad Foot">
   <img src="https://i.imgur.com/sSN8d9d.png" width="300" alt="MacroPad PCB"><br>
   <img src="https://i.imgur.com/tjNITtf.png" width="300" alt="MacroPad Schem">
