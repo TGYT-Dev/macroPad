@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/0H6eekn.png" width="300" alt="MacroPad Foot">
   <img src="https://i.imgur.com/sSN8d9d.png" width="300" alt="MacroPad PCB"><br>
   <img src="https://i.imgur.com/tjNITtf.png" width="300" alt="MacroPad Schem">
-  <img src="https://i.imgur.com/DMuPYag.png" width="300" alt="MacroPad Case / Assembly">
+  <img src="[https://i.imgur.com/DMuPYag.png](https://imgur.com/ImONw5o)" width="300" alt="MacroPad Case / Assembly">
 </p>
 
 # Bill of Materials
