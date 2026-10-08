@@ -22,4 +22,4 @@ This should all be iuncluded in the macropad kit.
 
 # Notes
 
-This is my first hardware project and I hope It turns out well... waiting for a review and working on minor improvements in the meantime.
+This is my first hardware project and I hope It turns out well... ~waiting for a review and working on minor improvements in the meantime.~
